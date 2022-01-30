@@ -38,4 +38,8 @@ public class Card {
         this.suit = suit;
     }
     
+    //This is a test
+    public void printInfo() {
+        System.out.println("I am Ekwomadu Chibueze but my friends call me Eze (ehzay). I am currently enrolled in SDNE at Sheridan College, ON.");
+    }
 }
